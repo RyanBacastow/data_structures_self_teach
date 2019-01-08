@@ -1,6 +1,6 @@
 Lorem ipsum dolor sit amet, consectetur adipiscing elit
 Maecenas nec velit at risus ullamcorper porta et non ante
-Nulla hendrerit nisl libero, in convallis lorem eleifend consequat
+
 Mauris a libero ac nisl porttitor facilisis eget ut tortor
 Donec at ligula mattis, fringilla leo non, mattis velit
 Maecenas sed semper orci
@@ -10,7 +10,7 @@ Duis at viverra felis, id volutpat ante
 In in massa eu ipsum vulputate suscipit quis eget nisi
 Duis eu mauris non felis pulvinar dignissim eu id neque
 Phasellus porttitor vel ante sed pellentesque
-Vivamus ullamcorper nisi laoreet rhoncus sollicitudin
+
 Mauris molestie ac lacus vitae fringilla
 Nullam scelerisque lorem ut erat cursus maximus
 Suspendisse vehicula massa erat, ac vestibulum neque vestibulum nec
@@ -86,7 +86,7 @@ Cras in nulla fringilla, congue risus ut, semper ipsum
 Suspendisse egestas vel orci vel bibendum
 Aenean a feugiat eros
 Morbi ac ultricies purus
-Suspendisse lacinia luctus risus, vel eleifend odio
+
 Etiam rhoncus neque a nibh volutpat, sit amet iaculis nunc vehicula
 In eget nulla a ex varius venenatis a id justo
 Aenean ut sem risus
@@ -124,6 +124,6 @@ Cras sed augue lectus
 Cras turpis erat, volutpat ut porttitor in, vehicula vitae nisl
 Nunc non mollis libero
 Mauris commodo est vitae velit vestibulum, vitae hendrerit justo feugiat
-Donec vehicula pharetra venenatis
+
 Suspendisse a dolor vel lacus blandit venenatis
 In facilisis erat lectus, eu venenatis
